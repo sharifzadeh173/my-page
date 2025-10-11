@@ -21,3 +21,7 @@ y_train2 = [0,0,1,1,0,1]
 X_test2 = [[10,16],[22,15],[14,23],[22,26]]
 y_test2 = [0,0,0,1]
 print("Example 2 loss:", logisticloss(X_train2, y_train2, X_test2, y_test2))
+#output
+#Example 1 loss: 9.010913347279288
+#Example 2 loss: 18.021826694558577
+
